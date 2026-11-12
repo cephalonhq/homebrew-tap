@@ -1,6 +1,6 @@
 cask "lyonis" do
-  version "0.2.0"
-  sha256 "69b1160ed7d074da1b1f5e25a3acde39b5d3595425c53dcc99751b5fb37dfbd4"
+  version "0.2.1"
+  sha256 "0feb77d89b1fbb8e78dbb3a24c809eccec4660cdb566cee8291aaf9988b3d078"
 
   url "https://downloads.cephalon.dev/lyonis/#{version}/Lyonis-#{version}-arm64.zip"
   name "Lyonis"
